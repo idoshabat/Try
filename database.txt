@@ -1,0 +1,3 @@
+{'firstName': 'ido', 'lastName': 'shabat', 'amount': '3', 'date': '2026-04-04', 'transaction_type': 'on'}
+{'firstName': 'Reut', 'lastName': 'Jhirad', 'amount': '7', 'date': '2011-01-01', 'transaction_type': 'on'}
+{'firstName': 'Reut', 'lastName': 'Jhirad', 'amount': '7', 'date': '2011-01-01', 'transaction_type': 'on'}Reut|Jhirad|7|2011-01-01|on
